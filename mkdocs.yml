@@ -1,5 +1,5 @@
 site_name: 基于LaTex 与SVG 渲染的离婚证样本和离婚证制作排版布局技术指南
-site_url: https://fdwsfc.readthedocs.io/zh-cn/latest/
+site_url: https://fdskub.readthedocs.io/zh-cn/latest/
 theme:
   name: material
   custom_dir: overrides
